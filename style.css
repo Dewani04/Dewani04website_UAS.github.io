@@ -1,0 +1,12 @@
+.jumbotron{
+	background-image: url(3.jpg);
+	background-size: cover;
+	height:300px;
+	text-align:center;
+	color:darkblue;
+}
+.col-md-6{
+	
+	color:orange;
+}
+    
